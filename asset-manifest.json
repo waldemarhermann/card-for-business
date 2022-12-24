@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-for-business/static/css/main.3318fea4.css",
+    "main.js": "/card-for-business/static/js/main.5c58b3b8.js",
+    "index.html": "/card-for-business/index.html",
+    "main.3318fea4.css.map": "/card-for-business/static/css/main.3318fea4.css.map",
+    "main.5c58b3b8.js.map": "/card-for-business/static/js/main.5c58b3b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3318fea4.css",
+    "static/js/main.5c58b3b8.js"
+  ]
+}
