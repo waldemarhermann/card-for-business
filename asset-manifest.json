@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/card-for-business/static/css/main.3318fea4.css",
-    "main.js": "/card-for-business/static/js/main.35b625ff.js",
+    "main.js": "/card-for-business/static/js/main.c2f16181.js",
     "index.html": "/card-for-business/index.html",
     "main.3318fea4.css.map": "/card-for-business/static/css/main.3318fea4.css.map",
-    "main.35b625ff.js.map": "/card-for-business/static/js/main.35b625ff.js.map"
+    "main.c2f16181.js.map": "/card-for-business/static/js/main.c2f16181.js.map"
   },
   "entrypoints": [
     "static/css/main.3318fea4.css",
-    "static/js/main.35b625ff.js"
+    "static/js/main.c2f16181.js"
   ]
 }
